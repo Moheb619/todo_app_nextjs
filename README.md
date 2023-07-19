@@ -36,4 +36,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 10. The user can continue adding, completing, and deleting tasks as needed.
 
-![TODO List](Website Image.PNG)
+![TODO List](public/Website Image.PNG)
