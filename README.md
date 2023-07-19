@@ -35,3 +35,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 9. If the user wants to remove a task from the list, they can click the "Delete" button for that task. The task will be immediately removed from the list.
 
 10. The user can continue adding, completing, and deleting tasks as needed.
+
+![TODO List](Website Image.PNG)
